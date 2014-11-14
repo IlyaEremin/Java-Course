@@ -1,0 +1,12 @@
+Пройти:
+* http://codingbat.com/prob/p190570
+* http://codingbat.com/prob/p187868
+* http://codingbat.com/prob/p181646
+* http://codingbat.com/prob/p154485
+* стр 53 Головоломка у бассейна
+
+Материалы для изучения:
+https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html
+https://docs.oracle.com/javase/tutorial/java/concepts/interface.html
+Страницы 58-62 включительно.
+
