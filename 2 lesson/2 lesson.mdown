@@ -5,12 +5,12 @@
 * http://codingbat.com/prob/p191914 - not string
 * стр 53 Головоломка у бассейна
 
-Для прохождения not string могут пригодиться методы startsWith, substring, length
-Веселое описание стрингов: http://codingbat.com/doc/java-string-introduction.html
-Документация лежит тут: https://docs.oracle.com/javase/7/docs/api/java/lang/String.html
+Для прохождения not string могут пригодиться методы startsWith, substring, length<br/>
+Веселое описание стрингов: http://codingbat.com/doc/java-string-introduction.html<br/>
+Документация лежит тут: https://docs.oracle.com/javase/7/docs/api/java/lang/String.html<br/>
 
-Материалы для изучения:
-https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html
-https://docs.oracle.com/javase/tutorial/java/concepts/interface.html
-Страницы 58-62 включительно.
+Материалы для изучения:<br/>
+https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html<br/>
+https://docs.oracle.com/javase/tutorial/java/concepts/interface.html<br/>
+Страницы 58-62 включительно.<br/>
 
