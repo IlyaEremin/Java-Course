@@ -1,9 +1,13 @@
 Пройти:
-* http://codingbat.com/prob/p190570
-* http://codingbat.com/prob/p187868
-* http://codingbat.com/prob/p181646
-* http://codingbat.com/prob/p154485
+* http://codingbat.com/prob/p140449 - parrotTrouble
+* http://codingbat.com/prob/p182873 - makes10
+* http://codingbat.com/prob/p159227 - posNeg
+* http://codingbat.com/prob/p191914 - not string
 * стр 53 Головоломка у бассейна
+
+Для прохождения not string могут пригодиться методы startsWith, substring, length
+Веселое описание стрингов: http://codingbat.com/doc/java-string-introduction.html
+Документация лежит тут: https://docs.oracle.com/javase/7/docs/api/java/lang/String.html
 
 Материалы для изучения:
 https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html
