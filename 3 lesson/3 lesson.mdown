@@ -1,0 +1,14 @@
+Пройти:
+* http://codingbat.com/prob/p136351 - front3
+* http://codingbat.com/prob/p161642 - backAround
+* http://codingbat.com/prob/p112564 - or35
+* http://codingbat.com/prob/p192082 - icyHot
+* http://codingbat.com/prob/p100905 - delDel
+* http://codingbat.com/prob/p125268 - endUp
+* Головоломка у бассейна из главы 2
+
+Материалы для изучения:<br/>
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html<br/>
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/expressions.html<br/>
+Страницы 71, 79-91<br/>
+
